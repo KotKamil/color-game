@@ -1,0 +1,6 @@
+button {
+    height: 5vh;
+    width: 5vw;
+    min-width: fit-content;
+    text-transform: uppercase;
+}
